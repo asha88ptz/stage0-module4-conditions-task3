@@ -12,7 +12,9 @@ import java.util.stream.Collectors;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class SeasonsTest extends BaseIOTest {
+class
+
+SeasonsTest extends BaseIOTest {
 
     @Test
     void tellTheSeasonByMonthNumberPrintsSpringWhen4or5or3() {
